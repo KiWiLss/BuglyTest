@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clickListener(View view) {
+
         String test=null;
         //Log.e("MMM", "clickListener: "+test.length());
         Toast.makeText(this, "******", Toast.LENGTH_SHORT).show();
